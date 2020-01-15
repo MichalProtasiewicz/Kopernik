@@ -1,0 +1,9 @@
+Planeta Satelita/Rozdział Zadanie
+Task-.--.--
+np:
+Ziemia Satelita 1 zadanie 1
+Task1.01.01
+
+
+Nazewnictwo Planet(Planet) i Rozdziału(Unit) pomijając końcówkę czyli np dla satelity 1 -> Unit1.01
+dla ziemi -> Planet1
